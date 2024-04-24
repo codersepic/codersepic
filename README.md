@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @codersepic
-- 👀 I’m interested in Makeing Games
-- 🌱 I’m currently learning MakeCode Arcade
-- 💞️ I’m looking to collaborate on NOTHING
-- 📫 How to reach me Lemony
-- 😄 Pronouns: HUMAN
+- 👋 Hi, we are @codersepic
+- 👀 We're interested in: Making Games
+- 🌱 We're currently learning: MakeCode Arcade
 - ⚡ Fun fact: Lemony
+- 🌌Game coming soon!🌌
 
 <!---
 codersepic/codersepic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
